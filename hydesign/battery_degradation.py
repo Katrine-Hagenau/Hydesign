@@ -6,11 +6,6 @@ import time
 import copy
 
 
-
-
-
-# hey
-
 # basic libraries
 import numpy as np
 from numpy import newaxis as na
