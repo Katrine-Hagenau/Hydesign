@@ -10,7 +10,7 @@ battery_WACC: 0.06
 battery_charge_efficiency: 0.985
 battery_control_system_cost: 2250
 battery_depth_of_discharge: 0.9
-battery_energy_cost: 62000
+battery_energy_cost: 74400
 battery_energy_onm_cost: 0
 battery_power_cost: 16000
 battery_price_reduction_per_year: 0.1
@@ -75,7 +75,7 @@ pv_deg_yr:
 ratio_gwa_era5: /groups/INP/era5/ratio_gwa2_era5.nc
 ref_yr_inflation: 0
 share_WT_deg_types: 0.5
-solar_PV_cost: 132000
+solar_PV_cost: 110000
 solar_WACC: 0.06
 solar_fixed_onm_cost: 4500
 solar_hardware_installation_cost: 100000
