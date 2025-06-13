@@ -2,46 +2,46 @@
 clearance [m],10
 sp [W/m2],350
 p_rated [MW],5
-Nwt,70
+Nwt,40
 wind_MW_per_km2 [MW/km2],7
-solar_MW [MW],100
+solar_MW [MW],200
 surface_tilt [deg],50
 surface_azimuth [deg],180
 DC_AC_ratio,1.5
 b_P [MW],50
 b_E_h [h],3
 cost_of_battery_P_fluct_in_peak_price_ratio,10
-NPV_over_CAPEX,0.19537812852079714
-NPV [MEuro],74.65725329179075
-IRR,0.0766387409576137
-LCOE [Euro/MWh],49.9585894911924
-Revenues [MEuro],26.904666020940905
-CAPEX [MEuro],382.11673874153126
-OPEX [MEuro],6.000957813325213
-Wind CAPEX [MEuro],267.50640180250053
-Wind OPEX [MEuro],5.325957813325213
-PV CAPEX [MEuro],33.5
-PV OPEX [MEuro],0.675
-Batt CAPEX [MEuro],15.12833693903076
+NPV_over_CAPEX,0.26472761482933055
+NPV [MEuro],77.94930637312103
+IRR,0.08220938765491126
+LCOE [Euro/MWh],47.35014361206081
+Revenues [MEuro],21.55480197144481
+CAPEX [MEuro],294.45098284655654
+OPEX [MEuro],4.399670957868241
+Wind CAPEX [MEuro],152.8608010300003
+Wind OPEX [MEuro],3.049670957868241
+PV CAPEX [MEuro],67.0
+PV OPEX [MEuro],1.35
+Batt CAPEX [MEuro],15.036753245127683
 Batt OPEX [MEuro],0.0
-Shared CAPEX [MEuro],65.982
+Shared CAPEX [MEuro],59.553428571428576
 Shared OPEX [MEuro],0.0
 penalty lifetime [MEuro],0.0
-AEP [GWh],696.2272851040266
-GUF,0.2649266686088381
+AEP [GWh],560.2547313990246
+GUF,0.21318673188699566
 grid [MW],300.0
-wind [MW],350.0
-solar [MW],100.0
+wind [MW],200.0
+solar [MW],200.0
 Battery Energy [MWh],150.0
 Battery Power [MW],50.0
-Total curtailment [GWh],339.33991334484807
-Total curtailment with deg [GWh],145.95878935339724
-Awpp [km2],50.0
-Apvp [km2],1.226
-Plant area [km2],50.0
+Total curtailment [GWh],27.504182262466824
+Total curtailment with deg [GWh],8.533571107737773
+Awpp [km2],28.571428571428573
+Apvp [km2],2.452
+Plant area [km2],28.571428571428573
 Rotor diam [m],134.86710626894708
 Hub height [m],77.43355313447354
 Number of batteries used in lifetime,2.0
 Break-even PPA price [Euro/MWh],33.14447654894577
 Capacity factor wind [-],0.19363305678531095
-Execution time [min],0.12638086080551147
+Execution time [min],0.14208568731943766
