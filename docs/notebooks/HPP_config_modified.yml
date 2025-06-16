@@ -1,4 +1,4 @@
-G_MW: 300
+G_MW: 360
 H2_storage_capex_cost: 300
 H2_storage_opex_cost: 3
 H2_transportation_cost: 5
@@ -10,7 +10,7 @@ battery_WACC: 0.06
 battery_charge_efficiency: 0.985
 battery_control_system_cost: 2250
 battery_depth_of_discharge: 0.9
-battery_energy_cost: 74400
+battery_energy_cost: 62000
 battery_energy_onm_cost: 0
 battery_power_cost: 16000
 battery_price_reduction_per_year: 0.1
