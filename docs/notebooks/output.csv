@@ -2,46 +2,46 @@
 clearance [m],10
 sp [W/m2],350
 p_rated [MW],5
-Nwt,40
+Nwt,30
 wind_MW_per_km2 [MW/km2],7
-solar_MW [MW],200
+solar_MW [MW],50
 surface_tilt [deg],50
 surface_azimuth [deg],180
 DC_AC_ratio,1.5
 b_P [MW],50
 b_E_h [h],3
 cost_of_battery_P_fluct_in_peak_price_ratio,10
-NPV_over_CAPEX,0.26472761482933055
-NPV [MEuro],77.94930637312103
-IRR,0.08220938765491126
-LCOE [Euro/MWh],47.35014361206081
-Revenues [MEuro],21.55480197144481
-CAPEX [MEuro],294.45098284655654
-OPEX [MEuro],4.399670957868241
-Wind CAPEX [MEuro],152.8608010300003
-Wind OPEX [MEuro],3.049670957868241
-PV CAPEX [MEuro],67.0
-PV OPEX [MEuro],1.35
-Batt CAPEX [MEuro],15.036753245127683
+NPV_over_CAPEX,0.04381558813030891
+NPV [MEuro],8.927886150557578
+IRR,0.06389647689289513
+LCOE [Euro/MWh],57.471267761037254
+Revenues [MEuro],12.189292584745813
+CAPEX [MEuro],203.7605001216866
+OPEX [MEuro],2.6262838664961268
+Wind CAPEX [MEuro],114.64560077250022
+Wind OPEX [MEuro],2.2887838664961264
+PV CAPEX [MEuro],16.75
+PV OPEX [MEuro],0.3375
+Batt CAPEX [MEuro],14.954327920614915
 Batt OPEX [MEuro],0.0
-Shared CAPEX [MEuro],59.553428571428576
+Shared CAPEX [MEuro],57.41057142857142
 Shared OPEX [MEuro],0.0
 penalty lifetime [MEuro],0.0
-AEP [GWh],560.2547313990246
-GUF,0.21318673188699566
+AEP [GWh],312.46593493119434
+GUF,0.11889875758416832
 grid [MW],300.0
-wind [MW],200.0
-solar [MW],200.0
+wind [MW],150.0
+solar [MW],50.0
 Battery Energy [MWh],150.0
 Battery Power [MW],50.0
-Total curtailment [GWh],27.504182262466824
-Total curtailment with deg [GWh],8.533571107737773
-Awpp [km2],28.571428571428573
-Apvp [km2],2.452
-Plant area [km2],28.571428571428573
+Total curtailment [GWh],0.0
+Total curtailment with deg [GWh],0.0
+Awpp [km2],21.428571428571427
+Apvp [km2],0.613
+Plant area [km2],21.428571428571427
 Rotor diam [m],134.86710626894708
 Hub height [m],77.43355313447354
 Number of batteries used in lifetime,2.0
-Break-even PPA price [Euro/MWh],33.14447654894577
-Capacity factor wind [-],0.19363305678531095
-Execution time [min],0.14208568731943766
+Break-even PPA price [Euro/MWh],37.54473993969231
+Capacity factor wind [-],0.19670599415564508
+Execution time [min],0.11018473307291667
