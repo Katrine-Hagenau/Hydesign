@@ -95,7 +95,7 @@ wind_deg_yr:
 - 0
 - 25
 wind_fixed_onm_cost: 12600
-wind_turbine_cost: 768000
+wind_turbine_cost: 640000
 wind_variable_onm_cost: 1.35
 wpp_efficiency: 1
 year: '2012'
